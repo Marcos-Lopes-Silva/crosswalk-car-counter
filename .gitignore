@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# modelos e vídeos (pesados)
+models/*.pt
+data/*
+!data/.gitkeep
+*.mp4
+*.avi
+runs/
+.ipynb_checkpoints/
